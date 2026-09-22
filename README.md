@@ -1,4 +1,4 @@
-# Chess Cheat
+# Chess solving tool
 
 A small terminal tool that uses Stockfish to recommend chess moves while you enter your opponent's moves.
 
